@@ -6,6 +6,10 @@ https://www.tooplate.com/view/2097-pop
 
 */
 
+*{
+  font-family: sans-serif;
+}
+
 body {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-size: 19px;
